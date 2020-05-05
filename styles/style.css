@@ -6,6 +6,10 @@ a:hover{
   font-weight: bold;
 }
 
+ul {
+    list-style-type: none;
+}
+/* header*/
 .img1-position{
   height: 65vh;
   object-position: 0 35% ;
@@ -31,4 +35,13 @@ a:hover{
   object-position: center;
   object-fit: contain;
   background-image: linear-gradient( slategrey, #7E459B);
+}
+
+/* section sobre*/
+.link-sobre {
+  color: #7E459B;
+  padding: 10px;
+}
+.link-sobre:hover {
+  color: #7E459B;
 }
