@@ -37,11 +37,16 @@ ul {
   background-image: linear-gradient( slategrey, #7E459B);
 }
 
-/* section sobre*/
+/* section about*/
 .link-sobre {
   color: #7E459B;
   padding: 10px;
 }
 .link-sobre:hover {
   color: #7E459B;
+}
+/*skills*/
+.skills {
+  color: white;
+  margin: 50px 0;
 }
