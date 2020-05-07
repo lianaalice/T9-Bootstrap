@@ -50,3 +50,17 @@ ul {
   color: white;
   margin: 50px 0;
 }
+
+.btn:hover {
+  background: blueviolet;
+}
+
+
+.footer-text {
+  font-size: 14px;
+}
+
+.reprograma-text {
+  color: #7E459B;
+  filter: contrast(200%) brightness(0.8);
+}
